@@ -1,4 +1,3 @@
----
 🌟 Campus Placement Management System
 -
 
