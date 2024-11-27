@@ -1,98 +1,99 @@
 🌟 Campus Placement Management System
 -
 
-📖 Project Overview
-
-The Campus Placement Management System is a web-based information system designed to streamline the campus placement process. By automating key functions, the system reduces manual effort, ensures better optimization, abstraction, and security, and facilitates a smooth experience for students, administrators, and recruiters during campus hiring.
-
-📝 Project Description
-
-The Campus Placement Management System serves as a centralized platform for managing placement-related activities within a college or university. The system replaces traditional manual processes with a modern, user-friendly web application that simplifies tasks such as student registration, company job postings, and placement tracking.
+ 📖 Project Overview : 
+    
+  The Campus Placement Management System is a web-based information system designed to streamline the campus placement process. By automating key functions, the system reduces manual effort, ensures better optimization, abstraction, and security, and facilitates a smooth experience for students, administrators, and recruiters during campus hiring.
+    
+ 📝 Project Description :
+    
+  The Campus Placement Management System serves as a centralized platform for managing placement-related activities within a college or university. The system replaces traditional manual processes with a modern, user-friendly web application that simplifies tasks such as student registration, company job postings, and placement tracking.
 
 ---
 
 🎯 Key Objectives:
-🚀 Automate the placement process to save time and effort.
-🔒 Provide secure access for students, administrators, and recruiters.
-📊 Optimize data management and enhance usability.
-💬 Facilitate seamless communication between stakeholders.
-🛠️ Technologies Used
+-
+    🚀 Automate the placement process to save time and effort.
+    🔒 Provide secure access for students, administrators, and recruiters.
+    📊 Optimize data management and enhance usability.
+    💬 Facilitate seamless communication between stakeholders.
+    🛠️ Technologies Used
 
 ---
 
-Front-End:
-🌐 HTML
-🎨 CSS
-🅱️ Bootstrap
-✨ JavaScript
-🔄 jQuery
-🎨 SCSS
-
-
-Back-End:
-🖥️ PHP
-
-
-Database:
-💾 MySQL
-
-
-Tools:
-💻 Visual Studio Code
-🧰 Git
-🌐 GitHub
-⚡ XAMPP
+  Front-End:
+    🌐 HTML,
+    🎨 CSS,
+    🅱️ Bootstrap,
+    ✨ JavaScript,
+    🔄 jQuery,
+    🎨 SCSS
+    
+    
+  Back-End:
+    🖥️ PHP
+    
+    
+  Database:
+    💾 MySQL
+    
+    
+  Tools:
+    💻 Visual Studio Code,
+    🧰 Git,
+    🌐 GitHub,
+    ⚡ XAMPP
 
 
 ---
 
 ✨ Features
 -
-Student Module:
-
-📝 Register and update profiles.
-
-📄 View and apply for available job opportunities.
-
-Company Module:
-
-📢 Post job openings and requirements.
-
-🔍 Access and shortlist candidate profiles.
-
-Admin Module:
-
-🛡️ Manage student and company accounts.
-
-📊 Monitor placement activities and generate reports.
+    Student Module:
+    
+    📝 Register and update profiles.
+    
+    📄 View and apply for available job opportunities.
+    
+    Company Module:
+    
+    📢 Post job openings and requirements.
+    
+    🔍 Access and shortlist candidate profiles.
+    
+    Admin Module:
+    
+    🛡️ Manage student and company accounts.
+    
+    📊 Monitor placement activities and generate reports.
 
 ---
 
 ⚙️ Setup and Installation Prerequisites
 -
-⚡ XAMPP or any compatible PHP server.
-
-🧰 Git for version control.
-
-💻 Visual Studio Code or any preferred text editor.
+    ⚡ XAMPP or any compatible PHP server.
+    
+    🧰 Git for version control.
+    
+    💻 Visual Studio Code or any preferred text editor.
 
 ---
 
 Steps
 
-1.Clone the repository: git clone https://github.com/Mayur22103/Campus-Placement-Management-System.git  
-
-2.Open the project folder in Visual Studio Code.
-
-3.Set up the database:
-  -Start XAMPP and enable Apache and MySQL services.
-  -Open phpMyAdmin in your browser.
-  -Create a new database.
-  -Import the provided SQL file into the database.
-  
-4.Start the application:
-  -Place the project folder in the htdocs directory of XAMPP.
-  -Access the application in your browser : http://localhost/Campus-Placement-Management-System  
+    1.Clone the repository: git clone https://github.com/Mayur22103/Campus-Placement-Management-System.git  
+    
+    2.Open the project folder in Visual Studio Code.
+    
+    3.Set up the database:
+      -Start XAMPP and enable Apache and MySQL services.
+      -Open phpMyAdmin in your browser.
+      -Create a new database.
+      -Import the provided SQL file into the database.
+      
+    4.Start the application:
+      -Place the project folder in the htdocs directory of XAMPP.
+      -Access the application in your browser : http://localhost/Campus-Placement-Management-System  
 
 ---
 
